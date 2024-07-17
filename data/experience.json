@@ -1,0 +1,23 @@
+{
+  "experience": [
+    {
+      "clogo": "/companyLogo/fiverrr.png",
+      "title": "Freelancer,",
+      "company": "at, Fiverr",
+      "point1": "Worked with various clients through fiverr by developing various landing pages for them.",
+      "point2": "Utilized WordPress to create an immersive user experience with custom graphics, animations, and interactive elements.Ensured responsive design, optimizing the page for both desktop and mobile devices.",
+      "startDate": "April, 2022",
+      "endDate": "July, 2023"
+    },
+    {
+      "clogo": "/companyLogo/kw.jpeg",
+      "title": "Member",
+      "company": "KodeWreck - competitive programming club",
+      "point1": "Worked with community for tech enthusiasts and specially for those who are interested in competitive programming, since then participated in various contests across platforms",
+      "point2": "Networked with many ardent coders of ours college",
+      "startDate": "Dec, 2022",
+      "endDate": "Present"
+    }
+   
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": 1,
+        "title": "CryptoLok",
+        "content": "Crypto Arena is a cutting-edge platform that provides real-time cryptocurrency data from around the world. Utilizing the powerful capabilities of RapidAPI, Crypto Arena ensures users have access to the latest market trends. It utilizes Ant design for ui and React as a framework",
+        "imgurl": "/projectSS/cryptolok.png",
+        "githubLink": "https://github.com/Maverick0507/CryptoArena",
+        "deployedLink": "https://crypto-arena.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/redux.png"
+          },
+          {
+            "tech": "/skillsLogos/antt.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Vanced",
+        "content": "Vanced is a, a YouTube clone web application meticulously crafted using React.js and Material-UI. This project aims to replicate the core functionalities of YouTube, allowing users to watch videos fetched from the YouTube API and presented through a visually appealing and user-friendly interface.",
+        "imgurl": "/projectSS/vanced.png",
+        "githubLink": "https://github.com/Maverick0507/vanced",
+        "deployedLink": "https://vanced-1841.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/material.png"
+          }
+          
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Portfolio",
+        "content": "Nexjs was used to create the portfolio website. TailwindCSS and Framer motion were used to style the website. Sanity is utilised as a content management system.",
+        "imgurl": "/projectSS/portfolio.png",
+        "githubLink": "https://github.com/Nick-h4ck3r/portfolio-nextjs-latest",
+        "deployedLink": "https://nikhilkadam.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/next-js.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/framer.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Hogwarts",
+        "content": "Welcome to the magical world of Hogwarts! This project is a dynamic and interactive landing page inspired by the enchanting Harry Potter universe. Designed with a focus on immersive user experience, this page brings the magic of Hogwarts to life..",
+        "imgurl": "/projectSS/hogwartss.png",
+        "githubLink": "https://github.com/Maverick0507/Hogwarts",
+        "deployedLink": "https://hogwarts-pied.vercel.app//",
+        "tech": [
+          {
+            "tech": "/skillsLogos/html.png"
+          },
+          {
+            "tech": "/skillsLogos/css.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/framer.png"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "MovieSpace",
+        "content": "The MovieSpace website was built using ReactJS, which uses IMDB API to fetch using a search query using user input. reactjs and imdb api to fetch data and display results.",
+        "imgurl": "/projectSS/moviespace.png",
+        "githubLink": "https://github.com/Maverick0507/moviesapp",
+        "deployedLink": "https://moviesapp-beige.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/bootstrap.png"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Roll Ball",
+        "content": "Roll a Ball is an unity 3D game developed using C# and Unity 3D. The game is a simple game where the player has to collect the coins and avoid the obstacles. The game has a simple user interface and is easy to play.",
+        "imgurl": "/projectSS/rollball.png",
+        "githubLink": "https://github.com/Maverick0507/RollBallUnity",
+        "deployedLink": "https://roll-ball-unity.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/unityyy.png"
+          },
+         
+          {
+            "tech": "/skillsLogos/framer.png"
+          }
+          
+        ]
+      },
+      {
+        "id": 7,
+        "title": "TripTrek",
+        "content": "TripTrek a user-friendly web application aimed at travel enthusiasts seeking budget-friendly travel packages across various destinations in India. Leveraging cutting-edge technologies such as React.js, Firebase, and Google authorization, the platform offers a seamless booking experience.",
+        "imgurl": "/projectSS/triptrek.png",
+        "githubLink": "https://github.com/Maverick0507/TravellingDesi",
+        "deployedLink": "https://travelling-desi.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/firebase.png"
+          },
+          {
+            "tech": "/skillsLogos/node.png"
+          }
+        ]
+      }
+     
+    ]
+  }
+}
